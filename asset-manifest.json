@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/happy-anniversary/static/css/main.fda79c93.chunk.css",
+    "main.js": "/happy-anniversary/static/js/main.eee6ec6b.chunk.js",
+    "main.js.map": "/happy-anniversary/static/js/main.eee6ec6b.chunk.js.map",
+    "runtime-main.js": "/happy-anniversary/static/js/runtime-main.6a60c636.js",
+    "runtime-main.js.map": "/happy-anniversary/static/js/runtime-main.6a60c636.js.map",
+    "static/css/2.b5732489.chunk.css": "/happy-anniversary/static/css/2.b5732489.chunk.css",
+    "static/js/2.70ce682f.chunk.js": "/happy-anniversary/static/js/2.70ce682f.chunk.js",
+    "static/js/2.70ce682f.chunk.js.map": "/happy-anniversary/static/js/2.70ce682f.chunk.js.map",
+    "index.html": "/happy-anniversary/index.html",
+    "static/css/2.b5732489.chunk.css.map": "/happy-anniversary/static/css/2.b5732489.chunk.css.map",
+    "static/css/main.fda79c93.chunk.css.map": "/happy-anniversary/static/css/main.fda79c93.chunk.css.map",
+    "static/js/2.70ce682f.chunk.js.LICENSE.txt": "/happy-anniversary/static/js/2.70ce682f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/happy-anniversary/static/media/title-img.81dcdd61.jpg",
+    "static/media/font-awesome.min.css": "/happy-anniversary/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6a60c636.js",
+    "static/css/2.b5732489.chunk.css",
+    "static/js/2.70ce682f.chunk.js",
+    "static/css/main.fda79c93.chunk.css",
+    "static/js/main.eee6ec6b.chunk.js"
+  ]
+}
