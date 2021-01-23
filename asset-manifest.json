@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/happy-anniversary/static/css/main.fda79c93.chunk.css",
-    "main.js": "/happy-anniversary/static/js/main.d345f752.chunk.js",
-    "main.js.map": "/happy-anniversary/static/js/main.d345f752.chunk.js.map",
+    "main.js": "/happy-anniversary/static/js/main.e03bbcc4.chunk.js",
+    "main.js.map": "/happy-anniversary/static/js/main.e03bbcc4.chunk.js.map",
     "runtime-main.js": "/happy-anniversary/static/js/runtime-main.6a60c636.js",
     "runtime-main.js.map": "/happy-anniversary/static/js/runtime-main.6a60c636.js.map",
     "static/css/2.b5732489.chunk.css": "/happy-anniversary/static/css/2.b5732489.chunk.css",
@@ -12,14 +12,35 @@
     "static/css/2.b5732489.chunk.css.map": "/happy-anniversary/static/css/2.b5732489.chunk.css.map",
     "static/css/main.fda79c93.chunk.css.map": "/happy-anniversary/static/css/main.fda79c93.chunk.css.map",
     "static/js/2.70ce682f.chunk.js.LICENSE.txt": "/happy-anniversary/static/js/2.70ce682f.chunk.js.LICENSE.txt",
+    "static/media/Bom-img.3a86578d.jpg": "/happy-anniversary/static/media/Bom-img.3a86578d.jpg",
+    "static/media/Gallery-img-1.08b66a8f.jpg": "/happy-anniversary/static/media/Gallery-img-1.08b66a8f.jpg",
+    "static/media/Gallery-img-10.004f95da.jpg": "/happy-anniversary/static/media/Gallery-img-10.004f95da.jpg",
+    "static/media/Gallery-img-11.42871f91.jpg": "/happy-anniversary/static/media/Gallery-img-11.42871f91.jpg",
+    "static/media/Gallery-img-12.c0ab655d.jpg": "/happy-anniversary/static/media/Gallery-img-12.c0ab655d.jpg",
+    "static/media/Gallery-img-2.0c2856bf.jpg": "/happy-anniversary/static/media/Gallery-img-2.0c2856bf.jpg",
+    "static/media/Gallery-img-3.80a2b66e.jpg": "/happy-anniversary/static/media/Gallery-img-3.80a2b66e.jpg",
+    "static/media/Gallery-img-4.d4d7a02d.jpg": "/happy-anniversary/static/media/Gallery-img-4.d4d7a02d.jpg",
+    "static/media/Gallery-img-5.f8337e6a.jpg": "/happy-anniversary/static/media/Gallery-img-5.f8337e6a.jpg",
+    "static/media/Gallery-img-6.37643be4.jpg": "/happy-anniversary/static/media/Gallery-img-6.37643be4.jpg",
+    "static/media/Gallery-img-7.6edbc597.jpg": "/happy-anniversary/static/media/Gallery-img-7.6edbc597.jpg",
+    "static/media/Gallery-img-8.1b128527.jpg": "/happy-anniversary/static/media/Gallery-img-8.1b128527.jpg",
+    "static/media/Gallery-img-9.4a3f2a7f.jpg": "/happy-anniversary/static/media/Gallery-img-9.4a3f2a7f.jpg",
+    "static/media/Jet-img.e2bcb277.jpg": "/happy-anniversary/static/media/Jet-img.e2bcb277.jpg",
+    "static/media/Story-img-1.d98a8a1a.jpg": "/happy-anniversary/static/media/Story-img-1.d98a8a1a.jpg",
+    "static/media/Story-img-2.d0843c09.jpg": "/happy-anniversary/static/media/Story-img-2.d0843c09.jpg",
+    "static/media/Story-img-3.4513e637.jpg": "/happy-anniversary/static/media/Story-img-3.4513e637.jpg",
+    "static/media/Story-img-4.e74a04c7.jpg": "/happy-anniversary/static/media/Story-img-4.e74a04c7.jpg",
     "static/media/styles.css": "/happy-anniversary/static/media/title-img.81dcdd61.jpg",
-    "static/media/font-awesome.min.css": "/happy-anniversary/static/media/fontawesome-webfont.f691f37e.woff"
+    "static/media/font-awesome.min.css": "/happy-anniversary/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/title-image-1.233bc166.jpg": "/happy-anniversary/static/media/title-image-1.233bc166.jpg",
+    "static/media/title-image-2.97a07990.jpg": "/happy-anniversary/static/media/title-image-2.97a07990.jpg",
+    "static/media/title-image-3.fa5eb105.jpg": "/happy-anniversary/static/media/title-image-3.fa5eb105.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6a60c636.js",
     "static/css/2.b5732489.chunk.css",
     "static/js/2.70ce682f.chunk.js",
     "static/css/main.fda79c93.chunk.css",
-    "static/js/main.d345f752.chunk.js"
+    "static/js/main.e03bbcc4.chunk.js"
   ]
 }
