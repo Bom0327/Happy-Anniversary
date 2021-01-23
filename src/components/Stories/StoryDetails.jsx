@@ -1,4 +1,8 @@
 import React from "react";
+import S1 from "../../images/Story-img-1.jpg";
+import S2 from "../../images/Story-img-2.jpg";
+import S3 from "../../images/Story-img-3.jpg";
+import S4 from "../../images/Story-img-4.jpg";
 
 const story1 =
   "Jet and Bomyung majored in different fields but in the same university - Nagoya Institute of Technology. They first met during a culture class for foreigners. Jet asked for Bomyung's Facebook address and she gladly shared it with him. Later he contacted her to ask her to bring him along to church with her. They then became good friends and regularly studied in the library as well as went jogging in Tsuruma Park together.";
@@ -17,7 +21,7 @@ function StoryDetails() {
           <div className="story-image-container">
             <img
               className="story-image"
-              src="images/Story-img-1.jpg"
+              src={S1}
               alt="story1"
             />
           </div>
@@ -36,7 +40,7 @@ function StoryDetails() {
           <div className="story-image-container">
             <img
               className="story-image"
-              src="images/Story-img-2.jpg"
+              src={S2}
               alt="story2"
             />
           </div>
@@ -55,7 +59,7 @@ function StoryDetails() {
           <div className="story-image-container">
             <img
               className="story-image"
-              src="images/Story-img-3.jpg"
+              src={S3}
               alt="story3"
             />
           </div>
@@ -74,7 +78,7 @@ function StoryDetails() {
           <div className="story-image-container">
             <img
               className="story-image"
-              src="images/Story-img-4.jpg"
+              src={S4}
               alt="story4"
             />
           </div>

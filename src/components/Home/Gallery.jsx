@@ -1,4 +1,16 @@
 import React from "react";
+import G1 from "../../images/Gallery-img-1.jpg";
+import G2 from "../../images/Gallery-img-2.jpg";
+import G3 from "../../images/Gallery-img-3.jpg";
+import G4 from "../../images/Gallery-img-4.jpg";
+import G5 from "../../images/Gallery-img-5.jpg";
+import G6 from "../../images/Gallery-img-6.jpg";
+import G7 from "../../images/Gallery-img-7.jpg";
+import G8 from "../../images/Gallery-img-8.jpg";
+import G9 from "../../images/Gallery-img-9.jpg";
+import G10 from "../../images/Gallery-img-10.jpg";
+import G11 from "../../images/Gallery-img-11.jpg";
+import G12 from "../../images/Gallery-img-12.jpg";
 
 function Gallery() {
   return (
@@ -15,7 +27,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-1.jpg"
+                  src={G1}
                   alt="img1"
                 />
               </div>
@@ -25,7 +37,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-2.jpg"
+                  src={G2}
                   alt="img2"
                 />
               </div>
@@ -35,7 +47,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-3.jpg"
+                  src={G3}
                   alt="img3"
                 />
               </div>
@@ -45,7 +57,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-4.jpg"
+                  src={G4}
                   alt="img4"
                 />
               </div>
@@ -55,7 +67,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-5.jpg"
+                  src={G5}
                   alt="img5"
                 />
               </div>
@@ -65,7 +77,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-6.jpg"
+                  src={G6}
                   alt="img6"
                 />
               </div>
@@ -75,7 +87,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-7.jpg"
+                  src={G7}
                   alt="img7"
                 />
               </div>
@@ -85,7 +97,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-8.jpg"
+                  src={G8}
                   alt="img8"
                 />
               </div>
@@ -95,7 +107,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-9.jpg"
+                  src={G9}
                   alt="img9"
                 />
               </div>
@@ -105,7 +117,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-10.jpg"
+                  src={G10}
                   alt="img10"
                 />
               </div>
@@ -115,7 +127,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-11.jpg"
+                  src={G11}
                   alt="img11"
                 />
               </div>
@@ -125,7 +137,7 @@ function Gallery() {
               <div className="gallery-img-container">
                 <img
                   className="gallery-img"
-                  src="images/Gallery-img-12.jpg"
+                  src={G12}
                   alt="img12"
                 />
               </div>

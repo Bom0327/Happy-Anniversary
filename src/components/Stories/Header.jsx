@@ -17,7 +17,7 @@ function Header() {
     <header>
       <div className="container">
         <Navbar dark expand="md">
-          <NavbarBrand href="/">Jet & Bomyung</NavbarBrand>
+          <NavbarBrand>Jet & Bomyung</NavbarBrand>
           <NavbarToggler onClick={toggle} />
           <Collapse isOpen={isOpen} navbar>
             <Nav className="ml-auto" navbar>

@@ -1,4 +1,7 @@
 import React from "react";
+import Bom from "../../images/Bom-img.jpg";
+import Jet from "../../images/Jet-img.jpg";
+
 
 function Couple() {
   return (
@@ -13,7 +16,7 @@ function Couple() {
           <div className="col-lg-6 col-md-6 border-right">
             <div className="couple-wrap">
               <div className="couple-img">
-                <img src="images/Bom-img.jpg" alt="Bom" />
+                <img src={Bom} alt="Bom" />
               </div>
               <div className="couple-content">
                 <h3>Choi Bomyung</h3>
@@ -28,7 +31,7 @@ function Couple() {
           <div className="col-lg-6 col-md-6">
             <div className="couple-wrap">
               <div className="couple-img">
-                <img src="images/Jet-img.jpg" alt="Jet" />
+                <img src={Jet} alt="Jet" />
               </div>
               <div className="couple-content">
                 <h3>Tan You Jie Jet</h3>

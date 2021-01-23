@@ -6,17 +6,19 @@ import {
   CarouselIndicators
 } from "reactstrap";
 import Animate from "./Animate";
-// import { AnimateOnChange } from "react-animation";
+import C1 from "../../images/title-image-1.jpg"
+import C2 from "../../images/title-image-2.jpg"
+import C3 from "../../images/title-image-3.jpg"
 
 const items = [
   {
-    src: "images/title-image-1.jpg"
+    src: C1
   },
   {
-    src: "images/title-image-2.jpg"
+    src: C2
   },
   {
-    src: "images/title-image-3.jpg"
+    src: C3
   }
 ];
 
