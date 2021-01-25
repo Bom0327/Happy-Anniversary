@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/happy-anniversary/static/css/main.fda79c93.chunk.css",
-    "main.js": "/happy-anniversary/static/js/main.e03bbcc4.chunk.js",
-    "main.js.map": "/happy-anniversary/static/js/main.e03bbcc4.chunk.js.map",
+    "main.css": "/happy-anniversary/static/css/main.f841b143.chunk.css",
+    "main.js": "/happy-anniversary/static/js/main.af991bb3.chunk.js",
+    "main.js.map": "/happy-anniversary/static/js/main.af991bb3.chunk.js.map",
     "runtime-main.js": "/happy-anniversary/static/js/runtime-main.6a60c636.js",
     "runtime-main.js.map": "/happy-anniversary/static/js/runtime-main.6a60c636.js.map",
     "static/css/2.b5732489.chunk.css": "/happy-anniversary/static/css/2.b5732489.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.70ce682f.chunk.js.map": "/happy-anniversary/static/js/2.70ce682f.chunk.js.map",
     "index.html": "/happy-anniversary/index.html",
     "static/css/2.b5732489.chunk.css.map": "/happy-anniversary/static/css/2.b5732489.chunk.css.map",
-    "static/css/main.fda79c93.chunk.css.map": "/happy-anniversary/static/css/main.fda79c93.chunk.css.map",
+    "static/css/main.f841b143.chunk.css.map": "/happy-anniversary/static/css/main.f841b143.chunk.css.map",
     "static/js/2.70ce682f.chunk.js.LICENSE.txt": "/happy-anniversary/static/js/2.70ce682f.chunk.js.LICENSE.txt",
     "static/media/Bom-img.3a86578d.jpg": "/happy-anniversary/static/media/Bom-img.3a86578d.jpg",
     "static/media/Gallery-img-1.08b66a8f.jpg": "/happy-anniversary/static/media/Gallery-img-1.08b66a8f.jpg",
@@ -40,7 +40,7 @@
     "static/js/runtime-main.6a60c636.js",
     "static/css/2.b5732489.chunk.css",
     "static/js/2.70ce682f.chunk.js",
-    "static/css/main.fda79c93.chunk.css",
-    "static/js/main.e03bbcc4.chunk.js"
+    "static/css/main.f841b143.chunk.css",
+    "static/js/main.af991bb3.chunk.js"
   ]
 }
