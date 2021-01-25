@@ -12,6 +12,10 @@ ul {
   list-style-type: none;
 }
 
+.container-fluid {
+  padding:0;
+}
+
 /* Header : Navigation Bar */
 
 header {
@@ -145,7 +149,7 @@ a:hover {
 
 .countdown-timer li {
   width: 250px;
-  height: 202px;
+  height: 230px;
   background: url("images/countdown-img.png") center, no-repeat;
   background-size: cover;
   -webkit-background-size: cover;
@@ -515,28 +519,14 @@ ol {
 
 /* Media Section */
 
-@media (max-width: 1028px) {
-  .slide-content {
-    width: 350px;
-    height: 350px;
-  }
+@media (max-width: 1200px) {
   .countdown-timer li {
     width: 200px;
-    height: 150px;
-  }
-  .time {
-    font-size: 32px;
-  }
-  .story-text h3 {
-    font-size: 32px;
-  }
-  .scroll {
-    bottom: 50px;
-    right: 50px;
+    height: 180px;
   }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 992px) {
   .slide-content {
     width: 300px;
     height: 300px;
@@ -547,6 +537,24 @@ ol {
   .slide-content h1 {
     font-size: 32px;
   }
+
+  .countdown-timer li {
+    width: 200px;
+    height: 150px;
+  }
+  .time {
+    font-size: 32px;
+  }
+
+  .couple-img img {
+    width: 320px;
+    height: 320px;
+  }
+
+  .story-text h3 {
+    font-size: 32px;
+  }
+
   .title-img {
     height: 430px;
   }
@@ -574,6 +582,7 @@ ol {
   .dropdown-item {
     font-size: 13px;
   }
+
   .slide-images {
     height: 520px;
   }
@@ -585,12 +594,9 @@ ol {
   .carousel-container {
     padding-top: 50px;
   }
+
   .couple-wrap {
     padding: 0 10% 8px;
-  }
-  .couple-img img {
-    width: 280px;
-    height: 280px;
   }
 
   .end-img {
@@ -606,6 +612,7 @@ ol {
   .end-content p {
     font-size: 1.2rem;
   }
+
   .title-container {
     padding-top: 50px;
   }
@@ -633,13 +640,14 @@ ol {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 576px) {
   .nav-container {
     padding-top: 1px;
   }
   .navbar-brand {
     font-size: 20px;
   }
+
   .carousel-container {
     padding-top: 40px;
   }
@@ -659,11 +667,17 @@ ol {
   .slide-content p {
     font-size: 10px;
   }
+
+  .countdown-title h1 {
+    font-size: 2rem;
+  }
+
   .couple-title h1,
   .story-title h1,
   .gallery-title h1 {
     font-size: 2.8rem;
   }
+
   .thank-content {
     width: 200px;
     height: 200px;
@@ -674,10 +688,12 @@ ol {
   .end-content p {
     font-size: 0.9rem;
   }
+
   .title-container {
     padding-top: 40px;
   }
   .title-img::before {
     top: 40px;
   }
+  
 }

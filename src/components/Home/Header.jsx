@@ -20,7 +20,7 @@ function Header() {
 
   return (
     <header>
-      <div className="container">
+      <div className="container-xl">
         <Navbar dark expand="md">
           <NavbarBrand>Jet & Bomyung</NavbarBrand>
           <NavbarToggler onClick={toggle} />

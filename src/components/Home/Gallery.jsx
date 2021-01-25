@@ -15,7 +15,7 @@ import G12 from "../../images/Gallery-img-12.jpg";
 function Gallery() {
   return (
     <section id="gallery">
-      <div className="gallery-container container">
+      <div className="gallery-container container-xl">
         <div className="vector-title">
           <div className="vector-img"></div>
           <h1>Our Gallery</h1>

@@ -17,7 +17,7 @@ function StoryDetails() {
   return (
     <section>
       <section id="story1">
-        <div className="container">
+        <div className="container-xl">
           <div className="story-image-container">
             <img
               className="story-image"
@@ -36,7 +36,7 @@ function StoryDetails() {
       </section>
 
       <section id="story2">
-        <div className="container">
+        <div className="container-xl">
           <div className="story-image-container">
             <img
               className="story-image"
@@ -55,7 +55,7 @@ function StoryDetails() {
       </section>
 
       <section id="story3">
-        <div className="container">
+        <div className="container-xl">
           <div className="story-image-container">
             <img
               className="story-image"
@@ -74,7 +74,7 @@ function StoryDetails() {
       </section>
       
       <section id="story4">
-        <div className="container">
+        <div className="container-xl">
           <div className="story-image-container">
             <img
               className="story-image"

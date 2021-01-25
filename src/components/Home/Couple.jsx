@@ -6,7 +6,7 @@ import Jet from "../../images/Jet-img.jpg";
 function Couple() {
   return (
     <section id="couple">
-      <div className="couple-container container">
+      <div className="couple-container container-xl">
         <div className="vector-title">
           <div className="vector-img"></div>
           <h1>Happy Couple</h1>

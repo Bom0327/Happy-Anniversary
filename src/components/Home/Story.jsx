@@ -17,7 +17,7 @@ const story4 =
 function Story() {
   return (
     <section id="story">
-      <div className="story-container container">
+      <div className="story-container container-xl">
         <div className="vector-title">
           <div className="vector-img"></div>
           <h1>Our Love Story</h1>

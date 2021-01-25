@@ -46,25 +46,25 @@ function Countdown() {
 
   return (
     <div className="countdown-container">
-      <div className="container">
+      <div className="container-sm">
         <div className="countdown-title">
           <h1>Our next wedding anniversary is in</h1>
         </div>
 
         <ul className="row countdown-timer">
-          <li className="col-lg-3">
+          <li className="col-lg-3 col-md-3">
             <p className="time">{timerDays}</p>
             <p className="time-text">DAYS</p>
           </li>
-          <li className="col-lg-3">
+          <li className="col-lg-3 col-md-3">
             <p className="time">{timerHours}</p>
             <p className="time-text">HOURS</p>
           </li>
-          <li className="col-lg-3">
+          <li className="col-lg-3 col-md-3">
             <p className="time">{timerMinutes}</p>
             <p className="time-text">MINUTES</p>
           </li>
-          <li className="col-lg-3">
+          <li className="col-lg-3 col-md-3">
             <p className="time">{timerSeconds}</p>
             <p className="time-text">SECONDS</p>
           </li>
