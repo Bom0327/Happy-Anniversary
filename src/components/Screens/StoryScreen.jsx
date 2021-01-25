@@ -6,7 +6,7 @@ import Footer from "../Stories/Footer";
 
 function StoryHome() {
   return (
-    <div id="story-details" className="container-fluid">
+    <div id="story-details">
       <Header />
       <Title />
       <StoryDetails />

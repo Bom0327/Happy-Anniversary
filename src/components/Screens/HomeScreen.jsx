@@ -9,7 +9,7 @@ import Footer from "../Home/Footer";
 
 function Home() {
   return (
-    <div id="home" className="container-fluid">
+    <div id="home">
       <Header />
       <Carousel />
       <Countdown />
